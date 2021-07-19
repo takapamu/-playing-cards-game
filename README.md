@@ -1,1 +1,1 @@
-<h2>Java practice </h2>
+<h2>C++ practice </h2>
